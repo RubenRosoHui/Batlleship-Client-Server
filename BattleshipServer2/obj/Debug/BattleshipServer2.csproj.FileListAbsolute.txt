@@ -1,0 +1,10 @@
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2019\Projects\PRG650Project\BattleshipServer2\bin\Debug\BattleshipServer2.exe.config
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2019\Projects\PRG650Project\BattleshipServer2\bin\Debug\BattleshipServer2.exe
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2019\Projects\PRG650Project\BattleshipServer2\bin\Debug\BattleshipServer2.pdb
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2019\Projects\PRG650Project\BattleshipServer2\obj\Debug\BattleshipServer2.csprojAssemblyReference.cache
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2019\Projects\PRG650Project\BattleshipServer2\obj\Debug\BattleshipServer2.Properties.Resources.resources
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2019\Projects\PRG650Project\BattleshipServer2\obj\Debug\BattleshipServer2.csproj.GenerateResource.cache
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2019\Projects\PRG650Project\BattleshipServer2\obj\Debug\BattleshipServer2.csproj.CoreCompileInputs.cache
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2019\Projects\PRG650Project\BattleshipServer2\obj\Debug\BattleshipServer2.exe
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2019\Projects\PRG650Project\BattleshipServer2\obj\Debug\BattleshipServer2.pdb
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2019\Projects\PRG650Project\BattleshipServer2\obj\Debug\BattleshipServer2.FormSGame.resources
